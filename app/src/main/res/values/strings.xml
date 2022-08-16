@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WebDeveloperLoader</string>
+
+    <string name="ajustes_url">URL</string>
+    <string name="ajustes_tiempo_recarga">Tiempo recarga</string>
+    <string name="ajustes_guardar">Guardar</string>
+    <string name="ajustes_volver">Volver</string>
+</resources>
